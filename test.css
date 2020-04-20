@@ -1,3 +1,6 @@
-*{
-    width: 100%;
-}
+body{background: #000;}
+#div1{width: 100%;height: 100px;}
+.btn{width: 100%;height: 30px;float: left;}
+.img{width: 100%;height:100%;float: left;}
+.img img{float: left;margin-right: 5px;}
+.img h1{float: left;margin-right: 5px;font-size: 40px;margin-top: -12px;color:#fff;}
